@@ -1,1 +1,11 @@
-phone app
+- Photo store
+
+- customize Devise for authentication
+
+- stripe API for payment, charge credit card
+
+complex implementation of assciations
+
+different user plan
+
+using Ajax fetch form data, production email.
