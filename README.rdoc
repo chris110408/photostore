@@ -4,8 +4,10 @@
 
 - stripe API for payment, charge credit card
 
-complex implementation of assciations
+- complex implementation of assciations
 
-different user plan
+- different user plan
 
-using Ajax fetch form data, production email.
+- using Ajax fetch form data, production email.
+
+- demo link :https://chris-photo-app.herokuapp.com/
